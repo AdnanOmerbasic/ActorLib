@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActorLib", "ActorLib\ActorLib.csproj", "{3FA34EA5-F873-4246-B8A0-D39FC34433FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActorLibTests", "ActorLibTests\ActorLibTests.csproj", "{400EC254-B3F6-44CD-AC26-D8FA49CBDF21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3FA34EA5-F873-4246-B8A0-D39FC34433FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FA34EA5-F873-4246-B8A0-D39FC34433FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FA34EA5-F873-4246-B8A0-D39FC34433FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400EC254-B3F6-44CD-AC26-D8FA49CBDF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400EC254-B3F6-44CD-AC26-D8FA49CBDF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400EC254-B3F6-44CD-AC26-D8FA49CBDF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400EC254-B3F6-44CD-AC26-D8FA49CBDF21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
